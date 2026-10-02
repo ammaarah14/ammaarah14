@@ -8,8 +8,9 @@
 </picture>
 
 <br>
-
-# Hey there, I'm Ammaarah! 👋🌸
+  <a href="https://github.com/ammaarah14">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=954&text=%E2%8B%86.%CB%9A%E2%9C%AE%20Hi%2C%20I'm%20Ammaarah!%20%E2%9C%AE%CB%9A.%E2%8B%86" alt="⋆.˚✮ Hi, I&#39;m Ammaarah! ✮˚.⋆" />
+  </a>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=EF93C4&center=true&vCenter=true&width=650&lines=Aspiring+Software+Developer+%F0%9F%92%BB;Front-End+%26+Full-Stack+Enthusiast+%F0%9F%8C%B8;Flutter+%26+Firebase+Developer+%F0%9F%93%B1;Java+%7C+Python+%7C+Dart+%7C+Web+Development;Always+Learning%2C+Always+Building+%E2%9C%A8" alt="Typing SVG">
 
