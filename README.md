@@ -1,16 +1,23 @@
-## Hi there 👋
+--> <div align="center"> <!-- 🌿 Banner: make a 1500 x 400 image and save it as assets/banner.png --> <img src="assets/banner.png" alt="Ammaarah Basha — design + code + create" width="100%" /> </div> <br/> <h1 align="center">🌿 Hi, I'm Ammaarah! ♡</h1> <p align="center"> <i>same girl… bigger dreams ♡</i> </p> <p align="center"> I'm a creative soul with a love for design, code and all things tech.<br/> I enjoy turning ideas into interactive experiences, whether it's through<br/> beautiful designs or functional code. I'm always learning, always building,<br/> and always excited for what's next! ♡ </p> <p align="center"> <b>Graphic Designer</b> | <b>Developer</b> | <b>🌱 Lifelong Learner</b><br/> 📍 Johannesburg, South Africa &nbsp;•&nbsp; 💚 She/Her </p>
+💻 What I'm Working With
+<div align="center"> <table> <tr> <td align="center" width="110"><img src="https://skillicons.dev/icons?i=html" width="48" /><br/><sub><b>HTML</b></sub></td> <td align="center" width="110"><img src="https://skillicons.dev/icons?i=css" width="48" /><br/><sub><b>CSS</b></sub></td> <td align="center" width="110"><img src="https://skillicons.dev/icons?i=js" width="48" /><br/><sub><b>JavaScript</b></sub></td> <td align="center" width="110"><img src="https://skillicons.dev/icons?i=java" width="48" /><br/><sub><b>Java</b></sub></td> <td align="center" width="110"><img src="https://skillicons.dev/icons?i=py" width="48" /><br/><sub><b>Python</b></sub></td> </tr> <tr> <td align="center" width="110"><img src="https://skillicons.dev/icons?i=flutter" width="48" /><br/><sub><b>Flutter</b></sub></td> <td align="center" width="110"><img src="https://skillicons.dev/icons?i=mysql" width="48" /><br/><sub><b>SQL</b></sub></td> <td align="center" width="110"><img src="https://skillicons.dev/icons?i=kali" width="48" /><br/><sub><b>Cybersecurity</b></sub></td> <td align="center" width="110"><img src="https://skillicons.dev/icons?i=ai" width="48" /><br/><sub><b>Graphic Design</b></sub></td> <td align="center" width="110"><img src="https://skillicons.dev/icons?i=figma" width="48" /><br/><sub><b>Figma</b></sub></td> </tr> </table> </div>
+✦ Current Projects
+<div align="center"> <table> <tr> <!-- Study Buddy --> <td align="center" width="33%" valign="top"> <h3>📱 Study Buddy</h3> <p>A Flutter app to help you<br/>stay focused and organised.</p> <a href="https://github.com/ammydev/study-buddy"> <img src="https://img.shields.io/badge/View_Project_→-f4cfcf?style=for-the-badge&labelColor=f4cfcf&color=f4cfcf&logoColor=4a3b2a" alt="View Study Buddy" /> </a> </td> <!-- The Vault --> <td align="center" width="33%" valign="top"> <h3>🔒 The Vault</h3> <p>A password checker<br/>for safer you.</p> <a href="https://github.com/ammydev/the-vault"> <img src="https://img.shields.io/badge/View_Project_→-2f4a2f?style=for-the-badge&labelColor=2f4a2f&color=2f4a2f" alt="View The Vault" /> </a> </td> <!-- Where the Colour Lives --> <td align="center" width="33%" valign="top"> <h3>🎨 Where the Colour Lives</h3> <p>A short, hand-drawn browser game about finding your way home through memories.</p> <a href="https://github.com/ammydev/where-the-colour-lives"> <img src="https://img.shields.io/badge/View_Project_→-f1e3c4?style=for-the-badge&labelColor=f1e3c4&color=f1e3c4&logoColor=4a3b2a" alt="View Where the Colour Lives" /> </a> </td> </tr> </table> </div>
+📌 Pinned Repositories
+<div align="center"> <a href="https://github.com/ammydev/study-buddy"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=ammydev&repo=study-buddy&bg_color=f5ecd9&title_color=3f5a37&text_color=4a3b2a&icon_color=6b8a4f&border_color=d9cbb0" /> </a> <a href="https://github.com/ammydev/the-vault"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=ammydev&repo=the-vault&bg_color=f5ecd9&title_color=3f5a37&text_color=4a3b2a&icon_color=6b8a4f&border_color=d9cbb0" /> </a> <br/> <a href="https://github.com/ammydev/where-the-colour-lives"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=ammydev&repo=where-the-colour-lives&bg_color=f5ecd9&title_color=3f5a37&text_color=4a3b2a&icon_color=6b8a4f&border_color=d9cbb0" /> </a> <a href="https://github.com/ammydev/portfolio-website"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=ammydev&repo=portfolio-website&bg_color=f5ecd9&title_color=3f5a37&text_color=4a3b2a&icon_color=6b8a4f&border_color=d9cbb0" /> </a> </div>
+📊 GitHub Stats
+<div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=ammydev&show_icons=true&hide_border=false&count_private=true&bg_color=f5ecd9&title_color=3f5a37&text_color=4a3b2a&icon_color=6b8a4f&border_color=d9cbb0" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammydev&layout=compact&bg_color=f5ecd9&title_color=3f5a37&text_color=4a3b2a&border_color=d9cbb0" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ammydev&background=f5ecd9&ring=6b8a4f&fire=6b8a4f&currStreakLabel=3f5a37&sideLabels=3f5a37&currStreakNum=4a3b2a&sideNums=4a3b2a&dates=4a3b2a&stroke=d9cbb0&border=d9cbb0" />
 
-<!--
-**ammaarah14/ammaarah14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<sub><i>More code. More dreams. ♡</i></sub>
 
-Here are some ideas to get you started:
+</div>
+🔗 Find Me
+<div align="center"> <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"> <img src="https://img.shields.io/badge/LinkedIn-3f5a37?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://ammaarahbasha.dev"> <img src="https://img.shields.io/badge/Portfolio-6b8a4f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /> </a> <a href="mailto:YOUR-EMAIL@example.com"> <img src="https://img.shields.io/badge/Email-8b6f47?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="https://www.instagram.com/YOUR-INSTAGRAM/"> <img src="https://img.shields.io/badge/Instagram-c98b8b?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /> </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/><br/>
+
+<!-- 🌿 Footer image: save as assets/footer.png (notebook, laptop, coffee & plants) --> <img src="assets/footer.png" alt="Create. Build. Grow." width="100%" /> <br/>
+
+<i>big dreams, small steps, real progress. ♡</i><br/> <b>keep going ♡</b>
+
+</div>
