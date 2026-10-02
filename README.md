@@ -15,24 +15,6 @@
 
 <br>
 
-<a href="https://github.com/ammaarah14">
-  <img src="https://img.shields.io/github/followers/ammaarah14?label=Followers&style=for-the-badge&color=9CAF88&labelColor=355C4D" alt="GitHub followers">
-</a>
-<a href="https://github.com/ammaarah14?tab=repositories">
-  <img src="https://img.shields.io/github/stars/ammaarah14?affiliations=OWNER&style=for-the-badge&color=EF93C4&labelColor=8A456D" alt="GitHub stars">
-</a>
-<img src="https://komarev.com/ghpvc/?username=ammaarah14&style=for-the-badge&color=9CAF88&labelColor=355C4D" alt="Profile views">
-
-<br><br>
-
-<a href="#-about-me">About</a>
-&nbsp; • &nbsp;
-<a href="#-tech-stack">Tech Stack</a>
-&nbsp; • &nbsp;
-<a href="#-github-statistics">GitHub</a>
-&nbsp; • &nbsp;
-<a href="#-connect-with-me">Connect</a>
-
 </div>
 
 <br>
