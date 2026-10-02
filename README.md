@@ -140,22 +140,17 @@ I enjoy turning ideas into interactive experiences, whether it's through beautif
 <div align="center">
 
 <a href="https://github.com/ammaarah14/Study_Buddy_Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ammaarah14&repo=[PROJECT_1]&hide_border=true&bg_color=FDF7FA&title_color=EF93C4&icon_color=9CAF88&text_color=355C4D" alt="Featured project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ammaarah14&repo=Study_Buddy_Project&hide_border=true&bg_color=FDF7FA&title_color=EF93C4&icon_color=9CAF88&text_color=355C4D" alt="Featured project">
 </a>
 
 <a href="https://github.com/ammaarah14/Password_Checker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ammaarah14&repo=[PROJECT_2]&hide_border=true&bg_color=FDF7FA&title_color=EF93C4&icon_color=9CAF88&text_color=355C4D" alt="Featured project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ammaarah14&repo=Password_Checker&hide_border=true&bg_color=FDF7FA&title_color=EF93C4&icon_color=9CAF88&text_color=355C4D" alt="Featured project">
 </a>
 
 <br><br>
 
 <a href="https://github.com/ammaarah14/EcommerceStore">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ammaarah14&repo=[PROJECT_3]&hide_border=true&bg_color=FDF7FA&title_color=EF93C4&icon_color=9CAF88&text_color=355C4D" alt="Featured project">
-</a>
-
-<a href="https://github.com/ammaarah14/[PROJECT_4]">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ammaarah14&repo=[PROJECT_4]&hide_border=true&bg_color=FDF7FA&title_color=EF93C4&icon_color=9CAF88&text_color=355C4D" alt="Featured project">
-</a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ammaarah14&repo=EcommerceStore&hide_border=true&bg_color=FDF7FA&title_color=EF93C4&icon_color=9CAF88&text_color=355C4D" alt="Featured project">
 
 </div>
 
@@ -167,27 +162,11 @@ I enjoy turning ideas into interactive experiences, whether it's through beautif
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/[LINKEDIN_USERNAME]">
+<a href="https://www.linkedin.com/in/ammaarah-basha-a140782b7/">
   <img src="https://img.shields.io/badge/LinkedIn-9CAF88?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-<a href="https://x.com/[X_USERNAME]">
-  <img src="https://img.shields.io/badge/X-355C4D?style=for-the-badge&logo=x&logoColor=white" alt="X">
-</a>
-
-<a href="https://www.instagram.com/[INSTAGRAM_USERNAME]/">
-  <img src="https://img.shields.io/badge/Instagram-EF93C4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-
-<a href="https://www.tiktok.com/@[TIKTOK_USERNAME]">
-  <img src="https://img.shields.io/badge/TikTok-355C4D?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
-</a>
-
-<a href="https://www.youtube.com/@[YOUTUBE_USERNAME]">
-  <img src="https://img.shields.io/badge/YouTube-FF69B4?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-</a>
-
-<a href="mailto:[YOUR_EMAIL@example.com]">
+<a href="mailto:ammaarahbasha@gmail.com">
   <img src="https://img.shields.io/badge/Email-9CAF88?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
