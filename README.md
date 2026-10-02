@@ -16,7 +16,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=900&height=44&lines=Making%20the%20little%20ideas%20count%20%E2%80%8E%20%F0%96%B9%AD;I%20like%20making%20things%20that%20didn't%20exist%20five%20minutes%20ago%20%20%3A)" alt="Typing headlines" />
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=EF93C4&center=true&vCenter=true&width=650&lines=Aspiring+Software+Developer;Front-End+%26+Full-Stack+Enthusiast+;;Java+%7C+Python+%7C+Dart+%7C+Web+Development;Always+Learning+Always+Building" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=EF93C4&center=true&vCenter=true&width=650&lines=Aspiring+Software+Developer;Front-End+%26+Full-Stack+Enthusiast+;Always+Learning+Always+Building" alt="Typing SVG">
 
 <br>
 
