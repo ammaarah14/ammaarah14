@@ -112,8 +112,6 @@ I enjoy turning ideas into interactive experiences, whether it's through beautif
 
 ## 🐍 Contribution Snake
 
-## 🐍 Contribution Snake
-
 <div align="center">
 
 <picture>
@@ -141,17 +139,17 @@ I enjoy turning ideas into interactive experiences, whether it's through beautif
 
 <div align="center">
 
-<a href="https://github.com/ammaarah14/[PROJECT_1]">
+<a href="https://github.com/ammaarah14/Study_Buddy_Project">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ammaarah14&repo=[PROJECT_1]&hide_border=true&bg_color=FDF7FA&title_color=EF93C4&icon_color=9CAF88&text_color=355C4D" alt="Featured project">
 </a>
 
-<a href="https://github.com/ammaarah14/[PROJECT_2]">
+<a href="https://github.com/ammaarah14/Password_Checker">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ammaarah14&repo=[PROJECT_2]&hide_border=true&bg_color=FDF7FA&title_color=EF93C4&icon_color=9CAF88&text_color=355C4D" alt="Featured project">
 </a>
 
 <br><br>
 
-<a href="https://github.com/ammaarah14/[PROJECT_3]">
+<a href="https://github.com/ammaarah14/EcommerceStore">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ammaarah14&repo=[PROJECT_3]&hide_border=true&bg_color=FDF7FA&title_color=EF93C4&icon_color=9CAF88&text_color=355C4D" alt="Featured project">
 </a>
 
