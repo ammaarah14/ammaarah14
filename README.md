@@ -112,45 +112,24 @@ I enjoy turning ideas into interactive experiences, whether it's through beautif
 
 ## 🐍 Contribution Snake
 
+## 🐍 Contribution Snake
+
 <div align="center">
 
-<p>
-  <img src="https://raw.githubusercontent.com/ammaarah14/ammaarah14/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake">
-</p>
-
-<!--
-GitHub Action required to generate the snake animation.
-
-Recommended workflow:
-.github/workflows/snake.yml
-
-Example:
-
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-light
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          build_dir: dist
-        env:
-          GH_PAT: ${{ secrets.GH_PAT }}
--->
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ammaarah14/ammaarah14/main/dist/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ammaarah14/ammaarah14/main/dist/github-contribution-grid-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/ammaarah14/ammaarah14/main/dist/github-contribution-grid-snake.svg"
+    alt="GitHub contribution snake"
+  />
+</picture>
 
 </div>
 
