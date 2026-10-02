@@ -104,8 +104,6 @@ I enjoy turning ideas into interactive experiences, whether it's through beautif
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ammaarah14&bg_color=00000000&color=355C4D&line=EF93C4&point=FF69B4&area=true&hide_border=true&custom_title=Ammaarah's%20Contribution%20Activity" alt="GitHub activity graph">
-
 </div>
 
 <br>
