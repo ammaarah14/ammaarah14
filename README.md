@@ -28,50 +28,30 @@
 
 ## 🌷 About Me
 
-<table>
-<tr>
-<td width="65%" valign="middle">
-
 ### Hi, I'm Ammaarah! 💗
 
-I'm a student and aspiring **Software Developer** who enjoys turning ideas into useful, creative and visually appealing applications.
+I am a creative soul with a love for design, code and all things tech.  
+I enjoy turning ideas into interactive experiences, whether it's through beautiful designs or functional code. I am always learning, always building and always excited for what's next! ‎𖹭
 
-I'm especially interested in **Front-End and Full-Stack Development**, while continuously expanding my knowledge across different programming languages, frameworks and development tools.
+ Currently learning and growing through **WeThinkCode_**
 
-🎓 Currently learning and growing through **WeThinkCode_**
+⋆˚꩜｡ Building projects with **Java, Python, Dart, Flutter, Firebase & Web Technologies**
 
-💻 Building projects with **Java, Python, Dart, Flutter, Firebase & Web Technologies**
+⚘.⋆˚࿔ Currently focused on improving my programming skills and building real-world projects
 
-🌱 Currently focused on improving my programming skills and building real-world projects
+⋆✴︎˚｡⋆ I also enjoy **graphic design and creating aesthetic digital experiences**
 
-🎨 I also enjoy **graphic design and creating aesthetic digital experiences**
-
-🚀 My goal is to keep learning, build meaningful projects and grow into a well-rounded developer.
+ᯓ★ My goal is to keep learning, build meaningful projects and grow into a well-rounded developer.
 
 <br>
 
 > *"Small progress is still progress. Keep building."* 🌱
 
-</td>
-
-<td width="35%" align="center">
-
-<img src="[YOUR_IMAGE_URL]" width="260" alt="Ammaarah's profile illustration">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Student-9CAF88?style=flat-square&logo=bookstack&logoColor=white">
-<img src="https://img.shields.io/badge/Developer-EF93C4?style=flat-square&logo=code&logoColor=white">
-
-</td>
-</tr>
-</table>
-
 <br>
 
 ---
 
-## 💻 Tech Stack
+## 🖳 Tech Stack
 
 <div align="center">
 
