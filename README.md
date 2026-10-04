@@ -1,7 +1,7 @@
 <div align="center">
 
 <img
-  src="./assets/ammaarah_banner_github.gif"
+  src="https://raw.githubusercontent.com/ammaarah14/ammaarah14/main/assets/ammaarah_banner_github.gif"
   width="100%"
   alt="Ammaarah Basha"
 >
