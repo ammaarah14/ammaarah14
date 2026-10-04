@@ -1,11 +1,5 @@
 <div align="center">
-
-<img
-  src="https://raw.githubusercontent.com/ammaarah14/ammaarah14/main/assets/ammaarah_banner_github.gif"
-  width="100%"
-  alt="Ammaarah Basha"
->
-
+  <img src="https://raw.githubusercontent.com/ammaarah14/ammaarah14/main/assets/ammaarah_banner_github.gif" width="100%" alt="Ammaarah Basha">
 </div>
 
 <br>
