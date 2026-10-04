@@ -60,7 +60,7 @@ I enjoy combining the logical side of programming with the creative side of desi
 
 <div align="center">
 
-<img src="./assets/what-i-m-currently-doing-3d.gif" width="80%" alt="About Me">
+<img src="./assets/what-i-m-currently-doing-3d.gif" width="100%" alt="About Me">
 
 </div>
 
