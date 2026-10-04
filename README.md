@@ -50,6 +50,12 @@ I enjoy combining the logical side of programming with the creative side of desi
 <img src="./assets/cyber heart sticker.gif" width="150" alt="">
 </div>
 
+<div align="center">
+
+<img src="./assets/neon-divider.gif" width="100%" alt="">
+
+</div>
+
 ### 🌿 What I'm Currently Doing
 
 * 🌸 Learning and improving my software development skills
