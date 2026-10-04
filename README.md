@@ -22,9 +22,17 @@ alt="Developer typing animation"
 
 <br>
 
----
+<div align="center">
 
-## 🌷 About Me
+<img src="./assets/neon-divider.gif" width="100%" alt="">
+
+</div>
+
+## <div align="center">
+
+<img src="./assets/about-me-3d.gif" width="70%" alt="About Me">
+
+</div>
 
 Hi! I'm **Ammaarah**, a creative developer who enjoys bringing ideas to life through **code, design and technology**.
 
