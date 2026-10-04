@@ -6,11 +6,7 @@
 
 <div align="center">
 
-<img
-  src="https://raw.githubusercontent.com/ammaarah14/ammaarah14/main/assets/hi-i-m-ammaarah-3d.gif"
-  width="70%"
-  alt="Hi, I'm Ammaarah"
->
+<img src="./assets/hi-i-m-ammaarah-3d.gif" width="70%" alt="Hi, I'm Ammaarah">
 
 </div>
 
