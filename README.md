@@ -100,7 +100,7 @@ I enjoy combining the logical side of programming with the creative side of desi
 
 <p>
   Small progress is still progress. Keep building.
-  <img src="./assets/blooming flower.gif" width="35" valign="middle" alt="">
+  <img src="./assets/blooming flower.gif" width="45" valign="middle" alt="">
 </p>
 
 </div>
