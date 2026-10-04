@@ -94,7 +94,16 @@ I enjoy combining the logical side of programming with the creative side of desi
   &nbsp; Continuously exploring new programming languages and technologies
 </p>
 
-> 🌷 *"Small progress is still progress. Keep building."*
+<br>
+
+> <div align="right">
+
+<p>
+  Small progress is still progress. Keep building.
+  <img src="./assets/blooming-flower.gif" width="35" valign="middle" alt="">
+</p>
+
+</div>
 
 ---
 
