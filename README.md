@@ -64,12 +64,35 @@ I enjoy combining the logical side of programming with the creative side of desi
 
 </div>
 
-* 🌸 Learning and improving my software development skills
-* 🌿 Building projects with **Java, Python, Dart, Flutter, Firebase and web technologies**
-* ✦ Exploring **front-end and full-stack development**
-* 🎨 Learning more about **UI/UX and graphic design**
-* 🌱 Building projects that help me grow my portfolio
-* 💻 Continuously exploring new programming languages and technologies
+<p>
+  <img src="./assets/linux-penguin.gif" width="40" valign="middle">
+  &nbsp; Learning and improving my software development skills
+</p>
+
+<p>
+  <img src="./assets/linux-penguin.gif" width="40" valign="middle">
+  &nbsp;  Building projects with **Java, Python, Dart, Flutter, Firebase and web technologies**
+</p>
+
+<p>
+  <img src="./assets/linux-penguin.gif" width="40" valign="middle">
+  &nbsp; Exploring **front-end and full-stack development**
+</p>
+
+<p>
+  <img src="./assets/linux-penguin.gif" width="40" valign="middle">
+  &nbsp; Learning more about **UI/UX and graphic design**
+</p>
+
+<p>
+  <img src="./assets/linux-penguin.gif" width="40" valign="middle">
+  &nbsp; Building projects that help me grow my portfolio
+</p>
+
+<p>
+  <img src="./assets/linux-penguin.gif" width="40" valign="middle">
+  &nbsp; Continuously exploring new programming languages and technologies
+</p>
 
 > 🌷 *"Small progress is still progress. Keep building."*
 
