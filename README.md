@@ -32,9 +32,11 @@ alt="Developer typing animation"
 
 <img src="./assets/about-me-3d.gif" width="70%" alt="About Me">
 
-<table>
-<tr>
-<td width="70%" valign="top">
+</div>
+
+<br>
+
+<div align="left">
 
 Hi! I'm **Ammaarah**, a creative developer who enjoys bringing ideas to life through **code, design and technology**.
 
@@ -42,16 +44,11 @@ I'm currently learning and growing through **WeThinkCode_**, where I'm developin
 
 I enjoy combining the logical side of programming with the creative side of design — from building applications and websites to creating interfaces that feel simple, useful and visually appealing.
 
+</div>
 
-</td>
-
-<td width="30%" align="center" valign="middle">
-
-<img src="./assets/cyber heart sticker.gif" width="160" alt="Animated heart">
-
-</td>
-</tr>
-</table>
+<div align="right">
+<img src="./assets/cyber heart sticker.gif" width="150" alt="">
+</div>
 
 ### 🌿 What I'm Currently Doing
 
