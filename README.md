@@ -56,7 +56,13 @@ I enjoy combining the logical side of programming with the creative side of desi
 
 </div>
 
-### 🌿 What I'm Currently Doing
+</div>
+
+<div align="center">
+
+<img src="./assets/what-i-m-currently-doing-3d.gif" width="70%" alt="About Me">
+
+</div>
 
 * 🌸 Learning and improving my software development skills
 * 🌿 Building projects with **Java, Python, Dart, Flutter, Firebase and web technologies**
