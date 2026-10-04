@@ -11,7 +11,7 @@
 </div>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=25&pause=1200&color=00E5FF&center=true&vCenter=true&width=800&height=45&lines=Making+little+ideas+count+%E2%9C%A6;Turning+ideas+into+things+that+didn't+exist+before+%F0%9F%8C%B7"
+src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=25&pause=1200&color=00E5FF&center=true&vCenter=true&width=800&height=45&lines=Making+little+ideas+count;Turning+ideas+into+things+that+didn't+exist+before"
 alt="Typing animation"
 />
 
