@@ -3,7 +3,16 @@
 </div>
 
 <br>
-### 🌷 Hi, I'm Ammaarah! 🌿
+
+<div align="center">
+
+<img
+  src="https://raw.githubusercontent.com/ammaarah14/ammaarah14/main/assets/hi-i-m-ammaarah-3d.gif"
+  width="70%"
+  alt="Hi, I'm Ammaarah"
+>
+
+</div>
 
 <img
 src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=25&pause=1200&color=9CAF88&center=true&vCenter=true&width=800&height=45&lines=Making+little+ideas+count+%E2%9C%A6;Turning+ideas+into+things+that+didn't+exist+before+%F0%9F%8C%B7;Learning%2C+building+and+growing+every+day+%F0%9F%8C%B1"
