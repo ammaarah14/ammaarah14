@@ -1,11 +1,14 @@
 <div align="center">
 
-<img src="./header.svg" width="100%" alt="Ammaarah Basha">
+<img
+  src="./assets/ammaarah_banner_github.gif"
+  width="100%"
+  alt="Ammaarah Basha"
+>
 
 </div>
 
 <br>
-
 ### 🌷 Hi, I'm Ammaarah! 🌿
 
 <img
