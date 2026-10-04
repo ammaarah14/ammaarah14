@@ -28,7 +28,7 @@ alt="Developer typing animation"
 
 </div>
 
-## <div align="center">
+<div align="center">
 
 <img src="./assets/about-me-3d.gif" width="70%" alt="About Me">
 
