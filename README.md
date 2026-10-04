@@ -95,17 +95,22 @@ I enjoy combining the logical side of programming with the creative side of desi
 </p>
 
 <br>
+<br>
 
 <div align="right">
 
-<p>
-  Small progress is still progress. Keep building.
-  <img src="./assets/blooming flower.gif" width="45" valign="middle" alt="">
-</p>
+> Small progress is still progress. Keep building.
+  <img src="./assets/blooming flower.gif" width="75" valign="middle" alt="">
 
 </div>
 
----
+<br>
+
+<div align="center">
+
+<img src="./assets/neon-divider.gif" width="100%" alt="">
+
+</div>
 
 ## 🌸 Tech Stack
 
