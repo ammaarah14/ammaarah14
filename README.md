@@ -375,13 +375,19 @@ Django • Firebase • SQLite • Flutter
 <img src="./assets/neon-divider.gif" width="100%" alt="">
 
 </div>
----
-
-<div align="center">
-
-### 🌱 Always Learning • 🌸 Always Creating • ✦ Always Growing
 
 <br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ammaarah14/ammaarah14/main/assets/end-banner.jpeg" width="100%" alt="Ammaarah Basha">
+</div>
+
+<br>
+<div align="center">
+
+<img src="./assets/neon-divider.gif" width="100%" alt="">
+
+</div>
 
 <picture>
   <source
