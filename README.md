@@ -238,6 +238,8 @@ Django • Firebase • SQLite • Flutter
 <div align="left">
 
 > <img src="./assets/computer-guy.gif" width="75" valign="left" alt=""> Growing one contribution at a time.
+
+<br>
   
 </div>
 
@@ -288,9 +290,19 @@ Django • Firebase • SQLite • Flutter
 
 </div>
 
----
+<br>
 
-## 🌿 What I Love Building
+<div align="center">
+
+<img src="./assets/neon-divider.gif" width="100%" alt="">
+
+</div>
+
+<div align="center">
+
+<img src="./assets/what-i-love-building-3d.gif" width="100%">
+
+</div>
 
 <div align="center">
 
