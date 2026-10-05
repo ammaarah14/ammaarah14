@@ -304,28 +304,45 @@ Django • Firebase • SQLite • Flutter
 
 </div>
 
-<div align="center">
-
-🌸 **Beautiful Interfaces**
-*Creating clean and enjoyable digital experiences.*
-
-<br>
-
-🌱 **Useful Applications**
-*Turning everyday ideas into practical software.*
+<span style="display: inline-block; line-height: 1.1;">
+  <img src="./assets/purple fire.gif" width="15" style="vertical-align: 10px; margin-right: 8px;">
+  <strong>Beautiful Interfaces:</strong><br>
+  <span style="margin-left: 30px;">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Creating clean and enjoyable digital experiences.</em>
+  </span>
+</span>
 
 <br>
 
-💻 **Real-World Projects**
-*Learning by building, experimenting and solving problems.*
+<span style="display: inline-block; line-height: 1.1;">
+  <img src="./assets/purple fire.gif" width="15" style="vertical-align: 10px; margin-right: 8px;">
+  <strong>Useful Applications:</strong><br>
+  <span style="margin-left: 30px;">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Turning everyday ideas into practical software.</em>
+  </span>
+</span>
 
 <br>
 
-🎨 **Creative Digital Experiences**
-*Combining technology with design and creativity.*
+<span style="display: inline-block; line-height: 1.1;">
+  <img src="./assets/purple fire.gif" width="15" style="vertical-align: 10px; margin-right: 8px;">
+  <strong>Real-World Projects:</strong><br>
+  <span style="margin-left: 30px;">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Learning by building, experimenting and solving problems.</em>
+  </span>
+</span>
 
-</div>
+<br>
 
+<span style="display: inline-block; line-height: 1.1;">
+  <img src="./assets/purple fire.gif" width="15" style="vertical-align: 10px; margin-right: 8px;">
+  <strong>Creative Digital Experiences:</strong><br>
+  <span style="margin-left: 30px;">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Combining technology with design and creativity.</em>
+  </span>
+</span>
+
+<br>
 ---
 
 ## 💌 Let's Connect
