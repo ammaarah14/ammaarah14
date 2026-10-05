@@ -26,33 +26,6 @@ jobs:
             dist/github-contribution-grid-snake.svg?color_snake=%23FFD43B&color_dots=%230B1020,%233B167D,%235420A8,%237436D6,%23A855F7
             dist/github-contribution-grid-snake-dark.svg?color_snake=%23FFD43B&color_dots=%230B1020,%233B167D,%235420A8,%237436D6,%23A855F7
 
-      - name: Add cyan outlines to contribution blocks
-        run: |
-          python - <<'PY'
-          from pathlib import Path
-          import re
-
-          files = [
-              Path("dist/github-contribution-grid-snake.svg"),
-              Path("dist/github-contribution-grid-snake-dark.svg"),
-          ]
-
-          for path in files:
-              if not path.exists():
-                  continue
-
-              svg = path.read_text()
-
-              # Add cyan stroke to every contribution rectangle
-              svg = re.sub(
-                  r'<rect([^>]*?)fill="([^"]+)"([^>]*)>',
-                  r'<rect\1fill="\2"\3 stroke="#00D9FF" stroke-width="0.8">',
-                  svg
-              )
-
-              path.write_text(svg)
-          PY
-
       - name: Publish generated files
         uses: crazy-max/ghaction-github-pages@v4
         with:
