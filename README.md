@@ -168,8 +168,11 @@ Django • Firebase • SQLite • Flutter
 
 </div>
 
+<div align="center">
 
-## 📊 GitHub Statistics
+<img src="./assets/github-statistics-3d.gif" width="97%" alt="About Me">
+
+</div>
 
 <div align="center">
 
