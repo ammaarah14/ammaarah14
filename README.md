@@ -60,7 +60,7 @@ I enjoy combining the logical side of programming with the creative side of desi
 
 <div align="center">
 
-<img src="./assets/what-i-m-currently-doing-3d.gif" width="100%" alt="About Me">
+<img src="./assets/what-i-m-currently-doing-3d.gif" width="100%" alt="What I'm currently doing">
 
 </div>
 
@@ -112,56 +112,45 @@ I enjoy combining the logical side of programming with the creative side of desi
 
 </div>
 
-## 🌸 Tech Stack
-
 <div align="center">
 
-### 🌷 Languages
-
-<img src="https://skillicons.dev/icons?i=java,python,dart,html,css,js" alt="Programming languages">
-
-<br><br>
-
-### 🌿 Frameworks & Development
-
-<img src="https://skillicons.dev/icons?i=flutter,django,firebase" alt="Frameworks and development">
-
-<br><br>
-
-### ✦ Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,figma" alt="Tools and platforms">
-
-<br><br>
-
-### 🌱 Currently Exploring
-
-<img src="https://img.shields.io/badge/Front--End-EFA3C2?style=for-the-badge&logoColor=355C4D">
-<img src="https://img.shields.io/badge/Full--Stack-9CAF88?style=for-the-badge&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/Flutter-F8D7E3?style=for-the-badge&logo=flutter&logoColor=355C4D">
-<img src="https://img.shields.io/badge/Firebase-EFA3C2?style=for-the-badge&logo=firebase&logoColor=355C4D">
-<img src="https://img.shields.io/badge/UI%2FUX-355C4D?style=for-the-badge&logoColor=FFFFFF">
-
+<img src="./assets/tech-stack-3d.gif" width="100%" alt="Tech Stack">
 </div>
+<div>
 
----
+<img src="./assets/globe-transparent.gif" width="280" align="left" alt="Tech Stack">
 
-## 🌿 My Development Journey
+<h3>Tech Stack:</h3>
 
-<div align="center">
+<strong>Languages</strong><br>
+Python • Java • Dart • JavaScript • HTML • CSS
+<br>
+<img src="https://skillicons.dev/icons?i=python,java,dart,js,html,css" alt="Programming languages" height="45">
+<br><br>
 
-|       🌷 Learning       |    🌿 Building    |   ✦ Exploring  |
-| :---------------------: | :---------------: | :------------: |
-|       Programming       |  Web Applications |      UI/UX     |
-|   Software Development  |    Flutter Apps   | Graphic Design |
-|      Java & Python      | Firebase Projects |    Front-End   |
-| Dart & Web Technologies |     E-Commerce    |   Full-Stack   |
+<strong>Frameworks & Development</strong><br>
+Django • Firebase • SQLite • Flutter
+<br>
+<img src="https://skillicons.dev/icons?i=django,firebase,sqlite,flutter" alt="Frameworks and development" height="45">
+<br><br>
 
+  <div align=center>
+  <strong>Tools & Platforms</strong><br>
+  Git • GitHub • GitLab • VS Code • IntelliJ • Figma
+  <br>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,figma" alt="Tools and platforms" height="45">
+  </div>
 </div>
-
 <br>
 
-My goal is to become a **well-rounded developer** who can combine technical skills with creativity to build meaningful digital experiences.
+<div align="center">
+
+<img src="./assets/neon-divider.gif" width="100%" alt="">
+
+</div>
+<br>
+
+>   <img src="./assets/blooming flower.gif" width="75" valign="middle" alt=""> My goal is to become a **well-rounded developer** who can combine technical skills with creativity to build meaningful digital experiences.
 
 ---
 
