@@ -116,6 +116,7 @@ I enjoy combining the logical side of programming with the creative side of desi
 
 <img src="./assets/tech-stack-3d.gif" width="100%" alt="Tech Stack">
 </div>
+
 <div>
 
 <img src="./assets/globe-transparent.gif" width="280" align="left" alt="Tech Stack">
@@ -170,8 +171,7 @@ Django • Firebase • SQLite • Flutter
 
 <div align="center">
 
-<img src="./assets/github-statistics-3d.gif" width="97%" alt="About Me">
-
+<img src="./assets/github-statistics-3d.gif" width="97%" alt="Tech Stack">
 </div>
 
 <div align="center">
@@ -179,15 +179,15 @@ Django • Firebase • SQLite • Flutter
 <a href="https://github.com/ammaarah14">
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api?username=ammaarah14&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=FFF9FB&title_color=EFA3C2&icon_color=9CAF88&text_color=355C4D"
+    src="https://github-readme-stats.vercel.app/api?username=ammaarah14&show_icons=true&hide_border=true&bg_color=0B1020&title_color=9B5DE5&icon_color=00D9FF&text_color=E8E7FF"
     alt="Ammaarah's GitHub statistics"
   />
 </a>
-
+<br><br>
 <a href="https://github.com/ammaarah14">
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammaarah14&layout=compact&hide_border=true&langs_count=8&bg_color=FFF9FB&title_color=EFA3C2&text_color=355C4D"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammaarah14&layout=compact&bg_color=0B1020&title_color=FF4FD8&text_color=E8E7FF"
     alt="Ammaarah's most used languages"
   />
 </a>
@@ -195,12 +195,11 @@ Django • Firebase • SQLite • Flutter
 <br><br>
 
 <img
-src="https://streak-stats.demolab.com?user=ammaarah14&hide_border=true&background=FFF9FB&ring=EFA3C2&fire=EFA3C2&currStreakLabel=EFA3C2&sideLabels=355C4D&currStreakNum=355C4D&sideNums=355C4D&dates=9CAF88"
-alt="GitHub streak"
+  src="https://streak-stats.demolab.com/?user=ammaarah14&hide_border=true&background=0B1020&ring=9B5DE5&fire=FF4FD8&currStreakLabel=00D9FF&sideLabels=E8E7FF&currStreakNum=00D9FF&sideNums=E8E7FF&dates=9B5DE5"
+  alt="GitHub streak"
 />
 
 </div>
-
 ---
 
 ## 🐍 Contribution Garden
