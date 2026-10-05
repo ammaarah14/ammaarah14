@@ -387,21 +387,13 @@ Django • Firebase • SQLite • Flutter
 
 <img src="./assets/neon-divider.gif" width="100%" alt="">
 
-</div>
+<br><br>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:355C4D,45:9CAF88,75:EFA3C2,100:F8D7E3"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:9CAF88,45:EFA3C2,75:F8D7E3,100:FFF9FB"
-  />
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:9CAF88,45:EFA3C2,75:F8D7E3,100:FFF9FB"
-    alt="Pink and sage footer"
-  />
-</picture>
+<div align="center">
 
+<img
+  src="./assets/windows-glitch-footer-banner.gif"
+  width="100%"
+  alt="Retro Windows glitch footer"
+/>
 </div>
