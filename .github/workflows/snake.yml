@@ -1,13 +1,17 @@
-name: Generate Snake
+name: Generate Contribution Snake
 
 on:
   schedule:
     - cron: "0 0 * * *"
+
   workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
 
     steps:
       - name: Generate contribution snake
@@ -18,30 +22,7 @@ jobs:
             dist/github-contribution-grid-snake.svg?color_snake=%23FFD43B&color_dots=%230B1020,%233B167D,%235420A8,%237436D6,%23A855F7
             dist/github-contribution-grid-snake-dark.svg?color_snake=%23FFD43B&color_dots=%230B1020,%233B167D,%235420A8,%237436D6,%23A855F7
 
-      - name: Make grid lines cyan
-        run: |
-          python - <<'PY'
-          from pathlib import Path
-
-          for file in [
-              "dist/github-contribution-grid-snake.svg",
-              "dist/github-contribution-grid-snake-dark.svg"
-          ]:
-              path = Path(file)
-
-              if path.exists():
-                  svg = path.read_text()
-
-                  # Add a cyan stroke to the contribution cells
-                  svg = svg.replace(
-                      '<rect ',
-                      '<rect stroke="#00D9FF" stroke-width="0.7" '
-                  )
-
-                  path.write_text(svg)
-          PY
-
-      - name: Push snake to output branch
+      - name: Publish snake
         uses: crazy-max/ghaction-github-pages@v4
         with:
           build_dir: dist
