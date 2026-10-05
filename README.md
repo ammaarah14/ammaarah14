@@ -363,10 +363,18 @@ Django • Firebase • SQLite • Flutter
 
 <br><br>
 
-🌷 **Let's build something amazing together.** 🌿
+<div align="right">
+
+> **Let's build something amazing together.**
+  <img src="./assets/cherry.gif" width="75" valign="middle" alt="">
 
 </div>
 
+<div align="center">
+
+<img src="./assets/neon-divider.gif" width="100%" alt="">
+
+</div>
 ---
 
 <div align="center">
