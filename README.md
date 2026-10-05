@@ -200,10 +200,17 @@ Django • Firebase • SQLite • Flutter
 />
 
 </div>
----
+<div align="center">
 
-## 🐍 Contribution Garden
+<img src="./assets/neon-divider.gif" width="100%" alt="">
 
+</div>
+<div align="center">
+
+<img src="./assets/contribution-garden-3d.gif" width="100%" alt="Tech Stack">
+</div>
+
+<div>
 <div align="center">
 
 <picture>
@@ -228,7 +235,7 @@ Django • Firebase • SQLite • Flutter
 
 <br>
 
-🌱 **Growing one contribution at a time.** 🌸
+> Growing one contribution at a time.
 
 </div>
 
