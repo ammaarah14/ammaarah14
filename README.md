@@ -235,11 +235,17 @@ Django • Firebase • SQLite • Flutter
 
 <br>
 
-> Growing one contribution at a time.
+<div align="left">
 
+> <img src="./assets/computer-guy.gif" width="75" valign="left" alt=""> Growing one contribution at a time.
+  
 </div>
 
----
+<div align="center">
+
+<img src="./assets/neon-divider.gif" width="100%" alt="">
+
+</div>
 
 ## 🌷 Featured Projects
 
