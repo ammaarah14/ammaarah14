@@ -342,31 +342,24 @@ Django • Firebase • SQLite • Flutter
   </span>
 </span>
 
-<br>
-
+<br><br>
 <div align="center">
 
 <img src="./assets/neon-divider.gif" width="100%" alt="">
 
 </div>
 
-## 💌 Let's Connect
+<div align="center">
+
+<img src="./assets/let-s-connect-3d.gif" width="100%">
+
+</div>
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/ammaarah-basha-a140782b7/">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-EFA3C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"
-    alt="LinkedIn"
-  />
-</a>
+<a href="https://www.linkedin.com/in/ammaarah-basha-a140782b7/"><img src="./assets/linkedin-window.png" width="48%" alt="Connect with me on LinkedIn"></a><a href="mailto:ammaarahbasha@gmail.com"><img src="./assets/email-window.png" width="48%" alt="Connect with me via email"></a>
 
-<a href="mailto:ammaarahbasha@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Email-9CAF88?style=for-the-badge&logo=gmail&logoColor=FFFFFF"
-    alt="Email"
-  />
-</a>
+</div>
 
 <br><br>
 
