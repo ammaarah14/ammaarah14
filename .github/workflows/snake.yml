@@ -9,25 +9,42 @@ jobs:
   generate:
     runs-on: ubuntu-latest
 
-    permissions:
-      contents: write
-
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
       - name: Generate contribution snake
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: ammaarah14
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-light
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=%23FFD43B&color_dots=%230B1020,%233B167D,%235420A8,%237436D6,%23A855F7
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%23FFD43B&color_dots=%230B1020,%233B167D,%235420A8,%237436D6,%23A855F7
 
-      - name: Commit and push snake
+      - name: Make grid lines cyan
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add dist/
-          git commit -m "chore: update contribution snake" || echo "No changes to commit"
-          git push
+          python - <<'PY'
+          from pathlib import Path
+
+          for file in [
+              "dist/github-contribution-grid-snake.svg",
+              "dist/github-contribution-grid-snake-dark.svg"
+          ]:
+              path = Path(file)
+
+              if path.exists():
+                  svg = path.read_text()
+
+                  # Add a cyan stroke to the contribution cells
+                  svg = svg.replace(
+                      '<rect ',
+                      '<rect stroke="#00D9FF" stroke-width="0.7" '
+                  )
+
+                  path.write_text(svg)
+          PY
+
+      - name: Push snake to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          build_dir: dist
+          target_branch: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
