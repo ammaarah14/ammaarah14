@@ -255,33 +255,33 @@ Django • Firebase • SQLite • Flutter
 
 <div align="center">
 
-### 📚 Study Buddy
-
+### Study Buddy
 <a href="https://github.com/ammaarah14/Study_Buddy_Project">
   <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=ammaarah14&repo=Study_Buddy_Project&hide_border=true&bg_color=FFF9FB&title_color=EFA3C2&icon_color=9CAF88&text_color=355C4D"
+    src="./assets/study-buddy.png"
+    width="450"
     alt="Study Buddy project"
   />
 </a>
 
 <br><br>
 
-### 🔐 Password Checker
-
+### Password Checker
 <a href="https://github.com/ammaarah14/Password_Checker">
   <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=ammaarah14&repo=Password_Checker&hide_border=true&bg_color=FFF9FB&title_color=EFA3C2&icon_color=9CAF88&text_color=355C4D"
+    src="./assets/password-checker.png"
+    width="450"
     alt="Password Checker project"
   />
 </a>
 
 <br><br>
 
-### 🛍️ E-Commerce Store
-
+### E-Commerce Store
 <a href="https://github.com/ammaarah14/CodeAlpha_EcommerceStore">
   <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=ammaarah14&repo=CodeAlpha_EcommerceStore&hide_border=true&bg_color=FFF9FB&title_color=EFA3C2&icon_color=9CAF88&text_color=355C4D"
+    src="./assets/ecommerce-store.png"
+    width="450"
     alt="E-Commerce Store project"
   />
 </a>
