@@ -247,7 +247,11 @@ Django • Firebase • SQLite • Flutter
 
 </div>
 
-## 🌷 Featured Projects
+<div align="center">
+
+<img src="./assets/featured-projects-3d.gif" width="100%" alt="About Me">
+
+</div>
 
 <div align="center">
 
