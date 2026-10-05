@@ -23,8 +23,8 @@ jobs:
         with:
           github_user_name: ammaarah14
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%23FFD43B&color_dots=%230B1020,%233B167D,%235420A8,%237436D6,%23A855F7
-            dist/github-contribution-grid-snake-dark.svg?color_snake=%23FFD43B&color_dots=%230B1020,%233B167D,%235420A8,%237436D6,%23A855F7
+            dist/github-contribution-grid-snake.svg?color_snake=%23FFD43B&color_dots=%230B1020,%233B167D,%235420A8,%237436D6,%23A855F7&color_background=%2300D9FF
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%23FFD43B&color_dots=%230B1020,%233B167D,%235420A8,%237436D6,%23A855F7&color_background=%2300D9FF
 
       - name: Publish generated files
         uses: crazy-max/ghaction-github-pages@v4
