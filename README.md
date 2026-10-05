@@ -38,7 +38,7 @@ alt="Developer typing animation"
 
 <div align="left">
 
-Hi! I'm **Ammaarah**, a creative developer who enjoys bringing ideas to life through **code, design and technology**.
+I'm **Ammaarah**, a creative developer who enjoys bringing ideas to life through **code, design and technology**.
 
 I'm currently learning and growing through **WeThinkCode_**, where I'm developing my programming skills and working on real-world projects.
 
@@ -71,17 +71,17 @@ I enjoy combining the logical side of programming with the creative side of desi
 
 <p>
   <img src="./assets/linux-penguin.gif" width="40" valign="middle">
-  &nbsp;  Building projects with **Java, Python, Dart, Flutter, Firebase and web technologies**
+  &nbsp;  Building projects with Java, Python, Dart, Flutter, Firebase and web technologies
 </p>
 
 <p>
   <img src="./assets/linux-penguin.gif" width="40" valign="middle">
-  &nbsp; Exploring **front-end and full-stack development**
+  &nbsp; Exploring front-end and full-stack development
 </p>
 
 <p>
   <img src="./assets/linux-penguin.gif" width="40" valign="middle">
-  &nbsp; Learning more about **UI/UX and graphic design**
+  &nbsp; Learning more about UI/UX and graphic design
 </p>
 
 <p>
@@ -150,9 +150,24 @@ Django • Firebase • SQLite • Flutter
 </div>
 <br>
 
->   <img src="./assets/blooming flower.gif" width="75" valign="middle" alt=""> My goal is to become a **well-rounded developer** who can combine technical skills with creativity to build meaningful digital experiences.
+<div>
+  <img src="./assets/gummy-bear.gif" width="85" align="left" alt="">
+  <img src="./assets/gummy-bear.gif" width="85" align="right" alt="">
+  
+  <p align=center>
+    My goal is to become a well-rounded developer who can combine<br>
+    technical skills with creativity to build meaningful digital experiences.
+  </p>
 
----
+  <br clear="left">
+</div>
+
+<div align="center">
+
+<img src="./assets/neon-divider.gif" width="100%" alt="">
+
+</div>
+
 
 ## 📊 GitHub Statistics
 
