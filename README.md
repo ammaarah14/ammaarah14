@@ -343,7 +343,12 @@ Django • Firebase • SQLite • Flutter
 </span>
 
 <br>
----
+
+<div align="center">
+
+<img src="./assets/neon-divider.gif" width="100%" alt="">
+
+</div>
 
 ## 💌 Let's Connect
 
